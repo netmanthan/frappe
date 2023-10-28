@@ -666,7 +666,7 @@ jobs:
 
 patches_template = """[pre_model_sync]
 # Patches added in this section will be executed before doctypes are migrated
-# Read docs to understand patches:https://parrownova.com/docs/v14/user/en/database-migrations
+# Read docs to understand patches:https://sparrownova.com/docs/v14/user/en/database-migrations
 
 [post_model_sync]
 # Patches added in this section will be executed after doctypes are migrated"""
