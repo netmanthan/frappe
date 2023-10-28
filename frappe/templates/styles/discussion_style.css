@@ -133,7 +133,7 @@
 .card-style {
 	display: flex;
 	background: white;
-	border-radius: 8px;
+	border-radius: 4px;
 	position: relative;
 	box-shadow: var(--shadow-sm);
 }
