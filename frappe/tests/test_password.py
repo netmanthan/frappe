@@ -110,7 +110,7 @@ class TestPassword(FrappeTestCase):
 		self.assertEqual(doc.get_password(raise_exception=False), None)
 
 	def test_custom_encryption_key(self):
-		text = "Frappe Framework"
+		text = "Sparrownova Technologies"
 		custom_encryption_key = Fernet.generate_key().decode()
 
 		encrypted_text = encrypt(text, encryption_key=custom_encryption_key)

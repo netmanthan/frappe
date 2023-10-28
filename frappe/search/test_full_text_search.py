@@ -124,7 +124,7 @@ def get_documents():
 	docs.append(
 		{
 			"name": "sw/frappe",
-			"content": """Frappe Framework is a full-stack web framework, that includes everything you need to build and
+			"content": """Sparrownova Technologies is a full-stack web framework, that includes everything you need to build and
 			deploy business applications with Rich Admin Interface. CommonSearchTerm""",
 		}
 	)

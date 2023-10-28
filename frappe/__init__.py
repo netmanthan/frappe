@@ -46,7 +46,7 @@ from .utils.jinja import (
 from .utils.lazy_loader import lazy_import
 
 __version__ = "1.0.1"
-__title__ = "Frappe Framework"
+__title__ = "Sparrownova Technologies"
 
 controllers = {}
 local = Local()

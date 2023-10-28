@@ -102,7 +102,7 @@ def get_versions():
 
 	        {
 	                "frappe": {
-	                        "title": "Frappe Framework",
+	                        "title": "Sparrownova Technologies",
 	                        "version": "5.0.0"
 	                }
 	        }"""
