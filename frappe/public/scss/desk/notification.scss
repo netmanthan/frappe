@@ -113,7 +113,7 @@
 .recent-item {
 	padding: 10px;
 	margin: 4px 0px;
-	border-radius: var(--border-radius-md, 8px);
+	border-radius: var(--border-radius-md, 4px);
 	white-space: normal;
 	display: flex;
 	@include get_textstyle("base", "regular");
