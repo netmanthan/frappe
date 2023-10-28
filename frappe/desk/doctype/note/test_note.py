@@ -1,4 +1,4 @@
-# Copyright (c) 2015, Frappe Technologies Pvt. Ltd. and Contributors and Contributors
+# Copyright (c) 2015, Sparrownova Technologies and Contributors
 # License: MIT. See LICENSE
 
 import frappe

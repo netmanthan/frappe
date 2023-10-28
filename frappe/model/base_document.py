@@ -1,4 +1,4 @@
-# Copyright (c) 2022, Frappe Technologies Pvt. Ltd. and Contributors
+# Copyright (c) 2022, Sparrownova Technologies
 # License: MIT. See LICENSE
 import datetime
 import json

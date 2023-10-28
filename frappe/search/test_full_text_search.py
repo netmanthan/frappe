@@ -1,4 +1,4 @@
-# Copyright (c) 2020, Frappe Technologies Pvt. Ltd. and Contributors
+# Copyright (c) 2020, Sparrownova Technologies
 # License: MIT. See LICENSE
 from frappe.search.full_text_search import FullTextSearch
 from frappe.tests.utils import FrappeTestCase

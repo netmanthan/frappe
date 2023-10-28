@@ -1,4 +1,4 @@
-// Copyright (c) 2022, Frappe Technologies Pvt. Ltd. and Contributors
+// Copyright (c) 2022, Sparrownova Technologies
 // MIT License. See license.txt
 
 // Common utility functions for logging doctypes.

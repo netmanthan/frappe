@@ -1,4 +1,4 @@
-// Copyright (c) 2017, Frappe Technologies Pvt. Ltd. and Contributors
+// Copyright (c) 2017, Sparrownova Technologies
 // MIT License. See license.txt
 
 frappe.provide("frappe.ui");

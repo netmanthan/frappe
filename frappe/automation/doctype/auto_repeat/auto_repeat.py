@@ -1,4 +1,4 @@
-# Copyright (c) 2018, Frappe Technologies Pvt. Ltd. and contributors
+# Copyright (c) 2018, Sparrownova Technologies
 # License: MIT. See LICENSE
 
 from datetime import timedelta

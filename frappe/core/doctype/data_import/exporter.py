@@ -1,4 +1,4 @@
-# Copyright (c) 2019, Frappe Technologies Pvt. Ltd. and Contributors
+# Copyright (c) 2019, Sparrownova Technologies
 # License: MIT. See LICENSE
 
 import frappe

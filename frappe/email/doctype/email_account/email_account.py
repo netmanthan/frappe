@@ -1,4 +1,4 @@
-# Copyright (c) 2022, Frappe Technologies Pvt. Ltd. and contributors
+# Copyright (c) 2022, Sparrownova Technologies
 # License: MIT. See LICENSE
 
 import email.utils

@@ -1,4 +1,4 @@
-// Copyright (c) 2020, Frappe Technologies Pvt. Ltd. and Contributors
+// Copyright (c) 2020, Sparrownova Technologies
 // MIT License. See license.txt
 import BaseTimeline from "./base_timeline";
 import {

@@ -1,4 +1,4 @@
-# Copyright (c) 2015, Frappe Technologies Pvt. Ltd. and Contributors
+# Copyright (c) 2015, Sparrownova Technologies
 # License: MIT. See LICENSE
 import frappe
 from frappe.core.page.permission_manager.permission_manager import add, reset, update
