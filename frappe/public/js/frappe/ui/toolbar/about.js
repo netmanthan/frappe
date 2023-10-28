@@ -14,13 +14,13 @@ frappe.ui.misc.about = function () {
 						${__("Source")}:
 						<a href='https://github.com/frappe' target='_blank'>https://github.com/frappe</a></p>
 					<p><i class='fa fa-linkedin fa-fw'></i>
-						Linkedin: <a href='https://linkedin.com/company/frappe-tech' target='_blank'>https://linkedin.com/company/frappe-tech</a></p>
+						Linkedin: <a href='https://linkedin.com/company/netmanthan' target='_blank'>https://linkedin.com/company/netmanthan</a></p>
 					<p><i class='fa fa-facebook fa-fw'></i>
-						Facebook: <a href='https://facebook.com/erpnext' target='_blank'>https://facebook.com/erpnext</a></p>
+						Facebook: <a href='https://facebook.com/netmanthan' target='_blank'>https://facebook.com/netmanthan</a></p>
 					<p><i class='fa fa-twitter fa-fw'></i>
-						Twitter: <a href='https://twitter.com/frappetech' target='_blank'>https://twitter.com/frappetech</a></p>
+						Twitter: <a href='https://twitter.com/netmanthan' target='_blank'>https://twitter.com/netmanthan</a></p>
 					<p><i class='fa fa-youtube fa-fw'></i>
-						YouTube: <a href='https://www.youtube.com/@frappetech' target='_blank'>https://www.youtube.com/@frappetech</a></p>
+						YouTube: <a href='https://www.youtube.com/@sparrownova' target='_blank'>https://www.youtube.com/@sparrownova</a></p>
 					<hr>
 					<h4>${__("Installed Apps")}</h4>
 					<div id='about-app-versions'>${__("Loading versions...")}</div>

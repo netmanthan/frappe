@@ -14,6 +14,6 @@ def execute():
 
 	click.secho(
 		"Chat Module is moved to a separate app and is removed from Frappe in version-13.\n"
-		"Please install the app to continue using the chat feature: https://github.com/frappe/chat",
+		"Please install the app to continue using the chat feature: https://github.com/sparrownova/chat",
 		fg="yellow",
 	)
