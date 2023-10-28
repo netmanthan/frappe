@@ -1,7 +1,7 @@
 <div align="center">
 	<h1>
 		<br>
-		<a href="https://frappeframework.com">
+		<a href="https://sparrownova.com">
 			<img src=".github/frappe-framework-logo.svg" height="50">
 		</a>
 	</h1>
@@ -20,7 +20,7 @@
 	<a target="_blank" href="https://www.python.org/downloads/" title="Python version">
 		<img src="https://img.shields.io/badge/python-%3E=_3.10-success.svg">
 	</a>
-	<a href="https://frappeframework.com/docs">
+	<a href="https://sparrownova.com/docs">
 		<img src="https://img.shields.io/badge/docs-%F0%9F%93%96-success.svg"/>
 	</a>
 	<a href="https://github.com/netmanthan/sparro/actions/workflows/server-tests.yml">
@@ -58,24 +58,24 @@ Full-stack web application framework that uses Python and MariaDB on the server 
 
 ### Production
 * [Managed Hosting on Frappe Cloud](https://frappecloud.com/)
-* [Easy install script using Docker images](https://github.com/frappe/bench/tree/develop#easy-install-script)
-* [Manual install using Docker images](https://github.com/frappe/frappe_docker)
+* [Easy install script using Docker images](https://github.com/sparro/bench/tree/develop#easy-install-script)
+* [Manual install using Docker images](https://github.com/sparro/frappe_docker)
 
 ### Development
-* [Easy install script using Docker images](https://github.com/frappe/bench/tree/develop#easy-install-script)
-* [Development installation on bare metal](https://frappeframework.com/docs/user/en/installation)
+* [Easy install script using Docker images](https://github.com/sparro/bench/tree/develop#easy-install-script)
+* [Development installation on bare metal](https://sparrownova.com/docs/user/en/installation)
 
 
 ## Contributing
 
 1. [Code of Conduct](CODE_OF_CONDUCT.md)
-1. [Contribution Guidelines](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
+1. [Contribution Guidelines](https://github.com/sparro/sparrow/wiki/Contribution-Guidelines)
 1. [Security Policy](SECURITY.md)
 1. [Translations](https://translate.erpnext.com)
 
 ## Resources
 
-1. [frappeframework.com](https://frappeframework.com) - Official documentation of the Sparrownova Technologies.
+1. [frappeframework.com](https://sparrownova.com) - Official documentation of the Sparrownova Technologies.
 1. [frappe.school](https://frappe.school) - Pick from the various courses by the maintainers or from the community.
 
 ## License

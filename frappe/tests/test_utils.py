@@ -855,7 +855,7 @@ class TestAppParser(MockedRequestTestCase):
 		frappe_app = os.path.join(bench_path, "apps", "frappe")
 		self.assertEqual("frappe", parse_app_name(frappe_app))
 		self.assertEqual("healthcare", parse_app_name("healthcare"))
-		self.assertEqual("healthcare", parse_app_name("https://github.com/frappe/healthcare.git"))
+		self.assertEqual("healthcare", parse_app_name("https://github.com/sparro/healthcare.git"))
 		self.assertEqual("healthcare", parse_app_name("git@github.com:frappe/healthcare.git"))
 		self.assertEqual("healthcare", parse_app_name("frappe/healthcare@develop"))
 

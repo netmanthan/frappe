@@ -70,7 +70,7 @@ def safe_exec(script, _globals=None, _locals=None, restrict_commit_rollback=Fals
 
 		msg = _("Server Scripts are disabled. Please enable server scripts from bench configuration.")
 		docs_cta = _("Read the documentation to know more")
-		msg += f"<br><a href='https://frappeframework.com/docs/user/en/desk/scripting/server-script'>{docs_cta}</a>"
+		msg += f"<br><a href='https://sparrownova.com/docs/user/en/desk/scripting/server-script'>{docs_cta}</a>"
 		frappe.throw(msg, ServerScriptNotEnabled, title="Server Scripts Disabled")
 
 	# build globals
