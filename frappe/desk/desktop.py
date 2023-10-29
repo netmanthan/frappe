@@ -1,6 +1,6 @@
 # Copyright (c) 2020, Sparrownova Technologies
 # License: MIT. See LICENSE
-# Author - Shivam Mishra <shivamSparrownova.com>
+# Author - Shivam Mishra <shivam@sparrownova.com>
 
 from functools import wraps
 from json import dumps, loads

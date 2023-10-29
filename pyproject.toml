@@ -1,7 +1,7 @@
 [project]
 name = "sparrownova"
 authors = [
-    { name = "Sparrownova Technologies", email = "developersSparrownova.com"}
+    { name = "Sparrownova Technologies", email = "developers@Sparrownova.com"}
 ]
 description = "Metadata driven, full-stack low code web framework"
 requires-python = ">=3.10"
