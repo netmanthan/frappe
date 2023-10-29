@@ -10,7 +10,7 @@ app_logo_url = "/assets/frappe/images/frappe-framework-logo.svg"
 
 develop_version = "15.x.x-develop"
 
-app_email = "developers@frappe.io"
+app_email = "developersSparrownova.com"
 
 docs_app = "frappe_docs"
 

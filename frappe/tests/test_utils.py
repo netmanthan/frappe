@@ -383,7 +383,7 @@ class TestValidationUtils(FrappeTestCase):
 
 		# Valid addresses
 		self.assertTrue(validate_email_address("someone@frappe.com"))
-		self.assertTrue(validate_email_address("someone@frappe.com, anyone@frappe.io"))
+		self.assertTrue(validate_email_address("someone@frappe.com, anyoneSparrownova.com"))
 		self.assertTrue(validate_email_address("test%201@frappe.com"))
 
 		# Invalid address
@@ -913,15 +913,15 @@ class TestLazyLoader(FrappeTestCase):
 
 class TestIdenticon(FrappeTestCase):
 	def test_get_gravatar(self):
-		# developers@frappe.io has a gravatar linked so str URL will be returned
+		# developersSparrownova.com has a gravatar linked so str URL will be returned
 		frappe.flags.in_test = False
-		gravatar_url = get_gravatar("developers@frappe.io")
+		gravatar_url = get_gravatar("developersSparrownova.com")
 		frappe.flags.in_test = True
 		self.assertIsInstance(gravatar_url, str)
 		self.assertTrue(gravatar_url.startswith("http"))
 
 		# random email will require Identicon to be generated, which will be a base64 string
-		gravatar_url = get_gravatar(f"developers{random_string(6)}@frappe.io")
+		gravatar_url = get_gravatar(f"developers{random_string(6)}Sparrownova.com")
 		self.assertIsInstance(gravatar_url, str)
 		self.assertTrue(gravatar_url.startswith("data:image/png;base64,"))
 
