@@ -120,11 +120,36 @@
 			<a href="#signup">{{ _("Sign up") }}</a>
 		</div>
 		{%- endif -%}
+		<style>
+    .tagline {
+      font-size: 24px;
+      text-align: center;
+      position: relative;
+    }
 
+    .animation {
+      animation: slide 2s ease infinite;
+    }
 
-		<div class="text-center sign-up-message">
-			demo
-			<a href="#signup">data</a>
+    @keyframes slide {
+      0% {
+        transform: translateX(0);
+        opacity: 0;
+      }
+      50% {
+        transform: translateX(20px);
+        opacity: 1;
+      }
+      100% {
+        transform: translateX(0);
+        opacity: 0;
+      }
+    }
+  </style>
+		</head>
+		<body>
+		<div class="tagline">
+			<span class="animation">Unlock Your Retail Potential with Sparrownova ERP</span>
 		</div>
 	</section>
 
